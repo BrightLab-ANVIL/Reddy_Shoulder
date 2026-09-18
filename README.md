@@ -8,6 +8,7 @@ Relevant data files can be found on OpenNeuro:
 All anatomical and functional MRI pre-processing and registration scripts can be found at https://github.com/BrightLab-ANVIL/PreProc_BRAIN
 
 Detailed information on tedana and multi-echo fMRI analysis can be found at https://tedana.readthedocs.io
+
 Code used to create, automatically classify, and conservatively orthogonalize ME-ICA regressors can be found at https://github.com/BrightLab-ANVIL/MotorMEICAModeling
 
 ### Subject-level fMRI analysis
