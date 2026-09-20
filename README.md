@@ -1,7 +1,7 @@
 ## Whole-brain precision functional mapping of a proximal upper-extremity motor task
-This analysis code is shared alongside the manuscript found here: 
+This analysis code is shared alongside the manuscript: Reddy NA, Medina MC, Acosta AM, Mandana A, Dewald JPA, Bright MG. Whole-brain precision functional mapping of a proximal upper-extremity motor task
 
-Relevant data files can be found on OpenNeuro: 
+Relevant data files can be found on OpenNeuro: https://openneuro.org/datasets/ds006971
 
 ## Code
 ### MRI pre-processing and registration
